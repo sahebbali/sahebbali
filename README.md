@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saheb-bali-228646243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarwar-hridoy4/" height="30" width="40" /></a>
 
-<a href="https://fb.com/https://www.facebook.com/sarwarhridoy4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sarwarhridoy4/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sahebbali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sahebbali/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sarwarhridoy04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sarwarhridoy04/" height="30" width="40" /></a>
 <a href="https://discord.gg/Sarwar Hossain#4107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sarwar Hossain#4107" height="30" width="40" /></a>
 </p>
@@ -30,17 +30,15 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarhridoy4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahebbali&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwarhridoy4&show_icons=true&locale=en" alt="sarwarhridoy4" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahebbali&show_icons=true&locale=en" alt="sahebbali" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwarhridoy4&" alt="sarwarhridoy4" />
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwarhridoy4&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarwarhridoy4&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarwarhridoy4&theme=github_dark)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebbali&" alt="sahebbali" />
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahebbali&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahebbali&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahebbali&theme=github_dark)
